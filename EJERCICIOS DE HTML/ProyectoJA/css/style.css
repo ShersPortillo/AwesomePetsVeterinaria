@@ -1,0 +1,42 @@
+body {
+    font-family: 'Cormorant Garamond', sans-serif; 
+    background-color: #08143b; 
+    color: #252424; 
+}
+
+.container {
+    background-color: #7071c0; 
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 15px; 
+}
+
+.btn-primary {
+    background-color: #3ac0e9; 
+    border-color: #1b1a1a; 
+}
+
+.btn-primary:hover {
+    background-color: #92e958; 
+    border-color: #240303;
+}
+
+.navbar-light {
+    background-color: #4105e6; 
+}
+
+.navbar-light .navbar-brand,
+.navbar-light .navbar-nav .nav-link {
+    color: #333; /* Color de texto de la barra de navegación */
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-color: #333; /* Color del ícono del botón de menú desplegable */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #cc99ff; /* Color de los encabezados */
+}
+
+/* Estilos adicionales según sea necesario */
+
